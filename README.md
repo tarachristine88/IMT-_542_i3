@@ -11,8 +11,11 @@ Find updated links to the 2025 NCAA Women's College Gymnastics Championships, vi
 
 **Step 2.**
 Follow links to Virtius scoring platform for each of the three competition rounds:
+
 •	Semifinal I competition scores: https://virti.us/session?s=xhZmjBrMse 
+
 •	Semifinal II competition scores: https://virti.us/session?s=3mxRqdyuqJ 
+
 •	National Championship scores: https://virti.us/session?s=jbwIq0qS0k 
 
 **Step 3.**
