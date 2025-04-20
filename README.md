@@ -33,3 +33,9 @@ Copy the three CSV files to Google CoLab and begin coding, using the Gemini AI a
 
 ## Code example
 See NCAA_gymnastics_championships.ipynb file
+
+## Other ways to use this data
+
+While it is possible to create data visualizations in Google CoLab (as demonstrated above), there are other data visualization tools that are quicker and easier to use for manipulating data. The example below (see link) shows how Tableau can be used to integrate and synthesize the data to tell a compelling and interesting story.
+
+https://public.tableau.com/app/profile/philip.hulcome1964/viz/2025-GymnasticsNCAAChampionships/Dashboard-All 
