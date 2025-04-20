@@ -4,7 +4,7 @@ IMT 542 - Tara Hulcome
 
 ## Overview
 
-For this IMT 542 task (I3), I will walk through the process of integrating and visualizing scores from the 2025 NCAA Women's College Gymnastics Championships, held on 17-19 April 2025 in Dallas-Fort Worth TX. This project is useful as it allows the user to synthesize and interrogate data from 320 individual events across 3 separate competitions (including semi-final and final rounds). The user will be able to combine and transform the three datasets, comparing scores achieved by the 8 final teams and individual athletes.
+For this IMT 542 task (I3), I will walk through the process of integrating and visualizing scores from the 2025 NCAA Women's College Gymnastics Championships, held on 17-19 April 2025 in Dallas-Fort Worth TX. This project is useful as it allows the user to synthesize and interrogate data from 320 individual events across 3 separate competitions (including semi-final and final rounds). The user will be able to combine and transform the three datasets, comparing scores achieved by the 8 final teams and their individual athletes.
 
 ## Instructions
 
