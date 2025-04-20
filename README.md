@@ -28,7 +28,7 @@ As Virtius' Terms of Service do not permit web crawling / scraping activities, m
 
 **Step 4**
 
-Copy the three CSV files to Google CoLab and begin coding, using the Gemini AI assistant if required (as per code examples shown in linked file below). The specific task is to experiment with creating scatter plot graphs that show the range of scores achieved across all four events, and comparing the two strongest gymnastics teams (UCLA and Oklahoma).
+Copy the three CSV files to Google CoLab and begin coding, using the Gemini AI assistant if required (as per code examples shown in linked file below). The specific task is to experiment with creating scatter plot graphs that show the range of scores achieved across all four events (where FX = floor, UB = uneven bars, BB = balance beam, VT = vault), and comparing scores of the two strongest gymnastics teams (UCLA and Oklahoma).
 
 
 ## Code example
