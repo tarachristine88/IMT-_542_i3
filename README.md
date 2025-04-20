@@ -1,4 +1,4 @@
-# IMT_542_i3
+# IMT_542_I3
 
 IMT 542 - Tara Hulcome
 
